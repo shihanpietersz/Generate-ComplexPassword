@@ -5,7 +5,7 @@ Generate complex password
 
 .\Generate-ComplexPassword1.ps1 -UpperCaseLetterCount 2 -LowercaseLetterCount 2 -CharacterCount 4
 
-## info
+## Info
 the script genarates a password once the above parameters are inputted by the user.  
 
 ## Description
