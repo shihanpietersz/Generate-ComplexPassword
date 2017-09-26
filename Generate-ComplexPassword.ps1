@@ -5,7 +5,7 @@
 
 .GUID 25e0d101-3ce1-4c0a-80c4-fb0d24b02394
 
-.AUTHOR v-spieter
+.AUTHOR Shihan Sylvester Pietersz
 
 .COMPANYNAME 
 
